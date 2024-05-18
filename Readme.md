@@ -1,7 +1,7 @@
 👋 **Hi there! I'm Abhishek Chaurasia**  
 👨‍💻 DevOps Engineer | ☁️ Cloud Specialist | 🎥 YouTube Educator
 
-Welcome to my LinkedIn profile! I'm passionate about leveraging technology to drive innovation and streamline processes. With a background in DevOps engineering and cloud technologies, I thrive in dynamic environments where I can contribute to building scalable and efficient systems.
+Welcome to my profile! I'm passionate about leveraging technology to drive innovation and streamline processes. With a background in DevOps engineering and cloud technologies, I thrive in dynamic environments where I can contribute to building scalable and efficient systems.
 
 **About Me:**  
 Experienced DevOps Engineer with a passion for automating, optimizing, and streamlining processes to enhance software development and delivery. Skilled in cloud technologies, CI/CD pipelines, infrastructure as code, and containerization. Dedicated to continuous learning and sharing knowledge through my YouTube channel, Tech Ega.
