@@ -23,7 +23,7 @@ DevOps & SRE Engineer experienced in scaling infrastructure on **AWS/GCP**, buil
 * Deployed apps to EC2, ECS, EKS, with Kubernetes
 * Integrated observability via Prometheus, Grafana, CloudWatch, and New Relic
 * Cut cloud spend by \~40% through autoscaling & automation
-* Led JIRA & Azure DevOps migrations across tenants
+* Led JIRA & AWS resource migration
 
 ### **Cloud & DevOps Engineer**
 
