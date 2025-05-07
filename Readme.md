@@ -3,7 +3,6 @@
 **DevOps Engineer | Cloud Specialist | SRE | YouTube Educator**
 📍 Delhi, India | ✉️ [abhishekchaurasia.avi@gmail.com](mailto:abhishekchaurasia.avi@gmail.com) | 📞 +91 9452054447
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/) | 🖥️ [GitHub](https://github.com/Abhi-indra) | 📽️ [YouTube: Tech Ega](https://www.youtube.com/@techega7632)
-🌐 [Portfolio](https://abhishek-chaurasia-portfolio.netlify.app/)
 
 ---
 
