@@ -1,42 +1,78 @@
-# Abhishek Chaurasia
+# **Abhishek Chaurasia**
 
-## 👨‍💻 DevOps Engineer | ☁️ Cloud Specialist | 🎥 YouTube Educator
+**DevOps Engineer | Cloud Specialist | SRE | YouTube Educator**
+📍 Delhi, India | ✉️ [abhishekchaurasia.avi@gmail.com](mailto:abhishekchaurasia.avi@gmail.com) | 📞 +91 9452054447
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/) | 🖥️ [GitHub](https://github.com/Abhi-indra) | 📽️ [YouTube: Tech Ega](https://www.youtube.com/@techega7632)
+🌐 [Portfolio](https://abhishek-chaurasia-portfolio.netlify.app/)
 
-### About Me
+---
 
-Experienced DevOps Engineer with a passion for automating, optimizing, and streamlining processes to enhance software development and delivery. Skilled in cloud technologies, CI/CD pipelines, infrastructure as code, and containerization. Dedicated to continuous learning and sharing knowledge through my YouTube channel, Tech Ega.
+## 🔹 **Summary**
 
-### Experience
+DevOps & SRE Engineer experienced in scaling infrastructure on **AWS/GCP**, building robust **CI/CD pipelines**, and managing containerized workloads using **Docker** and **Kubernetes**. Adept at reducing cloud costs, enhancing observability with tools like **Prometheus**, and automating everything through **Terraform** and scripting. I also run **Tech Ega**, a YouTube channel focused on DevOps learning.
 
-#### 👨‍💻 DevOps Engineer
-**va2pt.com** *(Current)*
-- Responsible for designing, implementing, and maintaining DevOps practices to support agile software development processes.
-- Collaborating with cross-functional teams to automate infrastructure provisioning, configuration management, and deployment pipelines.
+---
 
-#### ☁️ Cloud and DevOps Engineer
-**Infrguard.io** *(6 months)*
-- Orchestrated cloud infrastructure and deployment strategies, leveraging AWS services and Kubernetes.
-- Spearheaded testing efforts to ensure the reliability and scalability of cloud-based applications.
-- Transitioned from a Cloud and Testing Engineer role to focus more on DevOps methodologies.
+## 🔹 **Professional Experience**
 
-#### ☁️ Cloud and Testing Engineer
-**Infrguard.io** *(1.5 years)*
-- Contributed to the design and implementation of cloud-based solutions, with a focus on scalability and performance.
-- Conducted thorough testing to identify and resolve issues, ensuring a seamless user experience.
+### **DevOps Engineer**
 
-### Projects
+**VA2PT** | *Mar 2024 – Present, Delhi*
 
-Explore my portfolio to discover projects I've worked on: [Abhishek Chaurasia's Portfolio](https://abhishek-chaurasia-portfolio.netlify.app/)
+* Built scalable cloud infra using Terraform, Bicep, and ARM (AWS & Azure)
+* CI/CD with Jenkins, GitHub Actions, Azure DevOps, and Bitbucket
+* Deployed apps to EC2, ECS, EKS, GKE with Kubernetes
+* Integrated observability via Prometheus, Grafana, CloudWatch, and New Relic
+* Cut cloud spend by \~40% through autoscaling & automation
+* Led JIRA & Azure DevOps migrations across tenants
 
-### Skills
+### **Cloud & DevOps Engineer**
 
-💻 DevOps Methodologies | 🚀 CI/CD | 🛠️ Infrastructure as Code | 🤖 Configuration Management | 🐳 Containerization | ☁️ Cloud Platforms | 📊 Monitoring and Logging | 📜 Scripting and Automation | 📚 Version Control
+**Infraguard.io** | *May 2023 – Feb 2024, Gurugram*
 
-### YouTube Channel
+* Managed AWS EC2, IAM, S3, and Azure VMs
+* Automated infra with CloudFormation and SSM
+* Implemented AWS best practices for architecture
 
-Check out my YouTube channel, Tech Ega, where I share tutorials and insights on tech skills: [Tech Ega](https://www.youtube.com/@techega7632)
+### **Cloud & Testing Engineer**
 
-### Contact
+**Infraguard.io** | *Jan 2023 – May 2023, Gurugram*
 
-✉️ Email: abhishekchaurasia.avi@gmail.com  
-🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/)
+* Led manual and automation testing
+* Handled client feedback, L1 support, and cloud VM provisioning
+
+---
+
+## 🔹 **Education**
+
+* **B.Tech – Computer Science & Engineering**
+  *Sage University, Indore* – **85%**
+* **12th CBSE** – Deoria Senior Secondary School – **62%**
+* **10th CBSE** – Deoria Senior Secondary School – **81.7%**
+
+---
+
+## 🔹 **Skills**
+
+* **Cloud:** AWS, Azure DevOps, GCP
+* **IaC:** Terraform, Bicep, ARM Templates
+* **Containers:** Docker, Kubernetes (EKS/GKE)
+* **CI/CD:** Jenkins, GitHub Actions, Bitbucket, Azure Pipelines
+* **Monitoring:** Prometheus, Grafana, CloudWatch, New Relic
+* **Scripting:** Python, Bash, PowerShell, Azure CLI
+* **Version Control:** Git, GitHub, Bitbucket
+* **OS:** Linux, Windows
+* **Other:** Networking, Technical Writing, Root Cause Analysis
+
+---
+
+Thanks for the correction! Here's the updated **Certifications** section with the correct title:
+
+---
+
+## 🔹 **Certifications**
+
+* **[AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/9ce8b072-caec-4992-a630-ff8da01241b0)**
+
+---
+
