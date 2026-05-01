@@ -1,77 +1,148 @@
-# **Abhishek Chaurasia**
+# 👋 Hi, I'm Abhishek Chaurasia
 
-**DevOps Engineer | Cloud Specialist | SRE | YouTube Educator**
-📍 Delhi, India | ✉️ [abhishekchaurasia.avi@gmail.com](mailto:abhishekchaurasia.avi@gmail.com) | 📞 +91 9452054447
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/) | 🖥️ [GitHub](https://github.com/Abhi-indra) | 📽️ [YouTube: Tech Ega](https://www.youtube.com/@techega7632)
+**DevOps Engineer | Cloud Specialist | SRE | Content Creator**
 
----
-
-## 🔹 **Summary**
-
-DevOps & SRE Engineer experienced in scaling infrastructure on **AWS/GCP**, building robust **CI/CD pipelines**, and managing containerized workloads using **Docker** and **Kubernetes**. Adept at reducing cloud costs, enhancing observability with tools like **Prometheus**, and automating everything through **Terraform** and scripting. I also run **Tech Ega**, a YouTube channel focused on DevOps learning.
+📍 Kuala Lumpur, Malaysia
+📧 [abhishekchaurasia.avi@gmail.com](mailto:abhishekchaurasia.avi@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/) | [GitHub](https://github.com/Abhi-indra) | [YouTube - Tech Ega](https://www.youtube.com/@techega7632)
+🌐 [Portfolio](https://abhi-indra.github.io/abhishek-portfolio/)
 
 ---
 
-## 🔹 **Professional Experience**
+## 🚀 About Me
 
-### **DevOps Engineer**
+I’m a DevOps & SRE Engineer focused on building **scalable, reliable, and automated cloud infrastructure**.
 
-**VA2PT** | *Mar 2024 – Present, Delhi*
+I specialize in:
 
-* Built scalable cloud infra using Terraform, CFT (AWS)
-* CI/CD with Jenkins, GitHub Actions, Azure DevOps, and Bitbucket
-* Deployed apps to EC2, ECS, EKS, with Kubernetes
-* Integrated observability via Prometheus, Grafana, CloudWatch, and New Relic
-* Cut cloud spend by \~40% through autoscaling & automation
-* Led JIRA & AWS resource migration
+* Designing production-grade architectures on **AWS & GCP**
+* Building end-to-end **CI/CD pipelines**
+* Managing containerized workloads using **Docker & Kubernetes**
+* Implementing **observability and monitoring systems**
+* Optimizing infrastructure for **cost, performance, and reliability**
 
-### **Cloud & DevOps Engineer**
-
-**Infraguard.io** | *May 2023 – Feb 2024, Gurugram*
-
-* Managed AWS EC2, IAM, S3, and Azure VMs
-* Automated infra with CloudFormation and SSM
-* Implemented AWS best practices for architecture
-
-### **Cloud & Testing Engineer**
-
-**Infraguard.io** | *Jan 2023 – May 2023, Gurugram*
-
-* Led manual and automation testing
-* Handled client feedback, L1 support, and cloud VM provisioning
+I also run a YouTube channel **Tech Ega**, where I share practical DevOps knowledge and real-world implementations.
 
 ---
 
-## 🔹 **Education**
+## 🚀 Featured Project
 
-* **B.Tech – Computer Science & Engineering**
-  *Sage University, Indore* – **85%**
-* **12th CBSE** – Deoria Senior Secondary School – **62%**
-* **10th CBSE** – Deoria Senior Secondary School – **81.7%**
+### 🔗 AWS DevOps CI/CD Pipeline
 
----
+📦 [View Project](https://github.com/Abhi-indra/aws-devops-cicd-pipeline-project)
 
-## 🔹 **Skills**
+End-to-end DevOps pipeline for a Flask application using AWS and modern tooling.
 
-* **Cloud:** AWS, Azure DevOps, GCP
-* **IaC:** Terraform, Bicep, ARM Templates
-* **Containers:** Docker, Kubernetes (EKS/GKE)
-* **CI/CD:** Jenkins, GitHub Actions, Bitbucket, Azure Pipelines
-* **Monitoring:** Prometheus, Grafana, CloudWatch, New Relic
-* **Scripting:** Python, Bash, PowerShell, Azure CLI
-* **Version Control:** Git, GitHub, Bitbucket
-* **OS:** Linux, Windows
-* **Other:** Networking, Technical Writing, Root Cause Analysis
+**Tech Stack:**
+AWS (EC2, ECR, ALB) • Terraform • Docker • GitHub Actions • Flask
 
----
+**Highlights:**
 
-Thanks for the correction! Here's the updated **Certifications** section with the correct title:
+* Provisioned infrastructure using **Terraform (VPC, EC2, ALB, Bastion)**
+* Designed secure architecture with **private backend + Bastion access**
+* Built CI/CD pipeline to **build, push, and deploy Docker images via ECR**
+* Automated deployments using **GitHub Actions**
+* Exposed application via **Application Load Balancer**
+
+**Outcome:**
+Designed a **production-style CI/CD system** with secure networking, automated delivery, and minimal manual intervention.
 
 ---
 
-## 🔹 **Certifications**
+## 💼 Professional Experience
 
-* **[AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/9ce8b072-caec-4992-a630-ff8da01241b0)**
+### **DevOps Engineer — VA2PT**
+
+📅 Mar 2024 – Present
+
+* Built and managed scalable infrastructure using **Terraform & AWS CloudFormation**
+* Designed CI/CD pipelines using **Jenkins, GitHub Actions, Azure DevOps, Bitbucket**
+* Deployed applications on **EC2, ECS, and EKS (Kubernetes)**
+* Implemented monitoring using **Prometheus, Grafana, CloudWatch, New Relic**
+* Reduced cloud costs by **~40%** through optimization and automation
+* Led JIRA migration and AWS resource restructuring
 
 ---
 
+### **Cloud & DevOps Engineer — Infraguard.io**
+
+📅 May 2023 – Feb 2024
+
+* Managed AWS services (EC2, IAM, S3) and Azure VMs
+* Automated infrastructure using **CloudFormation & AWS SSM**
+* Improved system reliability with cloud best practices
+
+---
+
+### **Cloud & Testing Engineer — Infraguard.io**
+
+📅 Jan 2023 – May 2023
+
+* Performed manual & automation testing
+* Provided L1 support and handled client issues
+* Assisted in cloud provisioning and environment setup
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+AWS • GCP • Azure
+
+### ⚙️ Infrastructure as Code
+
+Terraform • Bicep • ARM • CloudFormation
+
+### 📦 Containers & Orchestration
+
+Docker • Kubernetes (EKS / GKE)
+
+### 🔁 CI/CD
+
+Jenkins • GitHub Actions • Bitbucket • Azure Pipelines
+
+### 📊 Monitoring & Observability
+
+Prometheus • Grafana • CloudWatch • New Relic
+
+### 💻 Scripting & Automation
+
+Python • Bash • PowerShell • Azure CLI
+
+### 🔧 Others
+
+Git • Linux • Networking • RCA • System Design
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science & Engineering**
+Sage University, Indore — 85%
+
+---
+
+## 🏆 Certifications
+
+* [AWS Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/9ce8b072-caec-4992-a630-ff8da01241b0)
+
+---
+
+## 📢 Content & Community
+
+🎥 I run a DevOps-focused YouTube channel:
+👉 **Tech Ega** — tutorials, real-world projects, and cloud learning
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in:
+
+* DevOps Consulting
+* Cloud Architecture
+* Automation & CI/CD
+* Kubernetes & Scalable Systems
+
+Feel free to connect or collaborate 🚀
