@@ -7,7 +7,7 @@
 📍 Kuala Lumpur, Malaysia
 📧 [abhishekchaurasia.avi@gmail.com](mailto:abhishekchaurasia.avi@gmail.com)
 
-🔗 [Portfolio](https://abhi-indra.github.io/abhishek-portfolio/) • [LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/) • [GitHub](https://github.com/Abhi-indra) • [YouTube](https://www.youtube.com/@techega7632)
+🔗 [Portfolio](https://abhishekchaurasia.com/) • [LinkedIn](https://www.linkedin.com/in/abhishek-c-indra/) • [GitHub](https://github.com/Abhi-indra) • [YouTube](https://www.youtube.com/@techega7632)
 
 ---
 
